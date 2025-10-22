@@ -1,0 +1,5 @@
+{
+  "name": "Industrial AI Forecaster",
+  "description": "A web-based dashboard to configure, monitor, and visualize real-time predictions for industrial process parameters from OPC UA servers. This application simulates connecting to industrial hardware, training a local machine learning model, and forecasting future values.",
+  "requestFramePermissions": []
+}
